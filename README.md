@@ -22,7 +22,7 @@ Using my knowledge of machine learning and neural networks, I have created binar
 <img width="327" alt="first_attempt_results" src="https://user-images.githubusercontent.com/107579508/198122547-f2f70a4e-76fa-43d8-8ccb-fab1e346f13e.png">
 
 ## Summary
-Through the process of trial & error, removal of noisy features, additional neurons, hidden layers, and different activation functions the best results I received for my optimized model on predicting whether a donation is *successful* ended up being **0.7257**.
+Through the process of trial & error, removal of noisy features, additional neurons, hidden layers, and different activation functions the best results I obtained for predicting the accruacy of whether a donation is *successful* was **0.7257**.
 
 ### Recommendation
 Other models such as the random forest model could solve this problem with more accruacy. This type of model is very robust against the overfitting of data and it could be used to rank the importance of input variables on large datasets. 
